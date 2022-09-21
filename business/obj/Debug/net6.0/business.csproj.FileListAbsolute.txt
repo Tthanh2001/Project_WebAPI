@@ -1,0 +1,17 @@
+D:\API Net.core\WebApplicationAPI\business\bin\Debug\net6.0\business.deps.json
+D:\API Net.core\WebApplicationAPI\business\bin\Debug\net6.0\business.dll
+D:\API Net.core\WebApplicationAPI\business\bin\Debug\net6.0\business.pdb
+D:\API Net.core\WebApplicationAPI\business\bin\Debug\net6.0\Data.dll
+D:\API Net.core\WebApplicationAPI\business\bin\Debug\net6.0\Share.dll
+D:\API Net.core\WebApplicationAPI\business\bin\Debug\net6.0\Data.pdb
+D:\API Net.core\WebApplicationAPI\business\bin\Debug\net6.0\Share.pdb
+D:\API Net.core\WebApplicationAPI\business\obj\Debug\net6.0\business.csproj.AssemblyReference.cache
+D:\API Net.core\WebApplicationAPI\business\obj\Debug\net6.0\business.GeneratedMSBuildEditorConfig.editorconfig
+D:\API Net.core\WebApplicationAPI\business\obj\Debug\net6.0\business.AssemblyInfoInputs.cache
+D:\API Net.core\WebApplicationAPI\business\obj\Debug\net6.0\business.AssemblyInfo.cs
+D:\API Net.core\WebApplicationAPI\business\obj\Debug\net6.0\business.csproj.CoreCompileInputs.cache
+D:\API Net.core\WebApplicationAPI\business\obj\Debug\net6.0\business.csproj.CopyComplete
+D:\API Net.core\WebApplicationAPI\business\obj\Debug\net6.0\business.dll
+D:\API Net.core\WebApplicationAPI\business\obj\Debug\net6.0\refint\business.dll
+D:\API Net.core\WebApplicationAPI\business\obj\Debug\net6.0\business.pdb
+D:\API Net.core\WebApplicationAPI\business\obj\Debug\net6.0\ref\business.dll

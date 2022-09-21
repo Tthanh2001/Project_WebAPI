@@ -1,0 +1,14 @@
+D:\API Net.core\WebApplicationAPI\Data\bin\Debug\net6.0\Data.deps.json
+D:\API Net.core\WebApplicationAPI\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\API Net.core\WebApplicationAPI\Data\bin\Debug\net6.0\Data.dll
+D:\API Net.core\WebApplicationAPI\Data\bin\Debug\net6.0\Data.pdb
+D:\API Net.core\WebApplicationAPI\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\API Net.core\WebApplicationAPI\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\API Net.core\WebApplicationAPI\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\API Net.core\WebApplicationAPI\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\API Net.core\WebApplicationAPI\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\API Net.core\WebApplicationAPI\Data\obj\Debug\net6.0\Data.dll
+D:\API Net.core\WebApplicationAPI\Data\obj\Debug\net6.0\refint\Data.dll
+D:\API Net.core\WebApplicationAPI\Data\obj\Debug\net6.0\Data.pdb
+D:\API Net.core\WebApplicationAPI\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\API Net.core\WebApplicationAPI\Data\obj\Debug\net6.0\ref\Data.dll
